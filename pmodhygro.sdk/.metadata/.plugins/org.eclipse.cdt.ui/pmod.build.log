@@ -1,0 +1,8 @@
+17:20:00 **** Incremental Build of configuration Debug for project pmod ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for `main-build'.
+
+17:20:02 Build Finished (took 1s.220ms)
+
